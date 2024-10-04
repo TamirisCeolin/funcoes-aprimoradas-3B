@@ -7,14 +7,14 @@ export const perguntas = [
                 afirmacao: [
                     "No início ficou com medo do que essa tecnologia pode fazer. ",
                     "Afirmação 2",
-                    "Afrimação 3"
+                    "Afrimação 3",
                 ]
             },
             {
                 texto: "Isso é maravilhoso!",
                 afirmacao: [
                     "Quis saber como usar IA no seu dia a dia.",
-                    "Afirmação 2"
+                    "Afirmação 2",
                 ]
             }
         ]
