@@ -5,7 +5,7 @@ export const perguntas = [
             {
                 texto: "Isso é assustador!",
                 afirmacao: [
-                    "No início ficou com medo do que essa tecnologia pode fazer. ",
+                    "No início você ficou com medo do que essa tecnologia pode fazer. ",
                     "Afirmação 2",
                     "Afrimação 3",
                 ]
